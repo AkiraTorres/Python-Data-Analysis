@@ -1,0 +1,9 @@
+X2020-10-18 - (A). CONSULTA 02 - Qual foi a nota média de avaliações do usuário X?
+X2020-10-19 - (B). CONSULTA 06 - Mostre a faixa de idade dos usuários que avaliaram um livro X.
+X2020-10-20 - (C). CONSULTA 11 - Mostre a média de avaliação de um livro X numa cidade Y.
+X2020-10-20 - (D). CONSULTA 18 - Dado um usuário X, mostre a Y editora dos livros que ele avaliou com a nota Z.
+X2020-10-20 - (E). Organizar o core.py
+X2020-10-20 - (F). Organizar as funções.
+X2020-10-20 - (G). Separar as funções adequadamente por módulo.
+X2020-10-20 - (H). Comentários do código.
+X2020-10-20 - (I). Escrever alternativas para quando a entrada de alguma informação for inválida.
